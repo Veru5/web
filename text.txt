@@ -1,0 +1,18 @@
+SMATE!
+
+sports, meet, active, trip, enjoy
+
+
+Vytvoření registračního formuláře. 
+
+Jméno - first_name
+Příjmení - last_name
+Město - city
+Datum narození - birth_date
+Email - email
+Heslo - password
+pohlaví - sex - id_sex
+sport - sport - id_sports
+
+
+
